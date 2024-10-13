@@ -6,6 +6,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+｜Fourier feature approximations for periodic kernels in time-series modelling｜ AAAI 2018 | 2018-04 | - | - |
 | FcaNet: Frequency Channel Attention Networks| ICCV 2021 | 2020-12 | [Github](https://github.com/cfzd/FcaNet) | - |
 | SpectFormer: Frequency and Attention is what you need in a Vision Transformer | - | - | - | - |
 | Dynamic high-pass filtering and multi-spectral attention for image super-resolution| - | - | - | - |
@@ -16,7 +17,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | - | - | - | - |
 | High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness | - | - | - | - |
 | FCMNet: Frequency-aware cross-modality attention networks for RGB-D salient object detection| - | - | - | - |
-| FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | - | - | - | - |
+| FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | - |
 | Efficient frequency domain-based transformers for high-quality image deblurring | - | - | - | - |
 | Learning depth-density priors for Fourier-based unpaired image restoration | - | - | - | - |
 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting |- | - | - | - |
