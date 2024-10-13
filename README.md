@@ -35,7 +35,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Graph Wavelet Neural Network | ICLR 2019 | 2019-05 | [Github](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) | - |
 | Parameter-Efficient Fine-Tuning with Discrete Fourier Transform | ICML 2024 | 2024-07 | [Github](https://github.com/Chaos96/fourierft) | - |
 | Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers | AISTATS 2024 | 2024-05 | None | - |
-|    | - | - | - | - |
+| Fredformer: Frequency Debiased Transformer for Time Series Forecasting   | - | - | - | - |
 |    | - | - | - | - |
 |    | - | - | - | - |
 |    | - | - | - | - |
