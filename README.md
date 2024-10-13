@@ -2,7 +2,7 @@
 Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourier, Laplace and Wavelet Transform for Machine Learning
 
 
-#### On Structured Grids
+### Existing Paper
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
