@@ -36,7 +36,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Parameter-Efficient Fine-Tuning with Discrete Fourier Transform | ICML 2024 | 2024-07 | [Github](https://github.com/Chaos96/fourierft) | - |
 | Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers | AISTATS 2024 | 2024-05 | None | - |
 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting   | - | - | - | - |
-|    | - | - | - | - |
+|GFSNet: Gaussian Fourier with Sparse Attention Network for Visual Question Answering    | Arxiv 2024 | 2024-01 | [Github](https://github.com/shenxiang-vqa/GFSNet) | None |
 |    | - | - | - | - |
 |    | - | - | - | - |
 |    | - | - | - | - |
