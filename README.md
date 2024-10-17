@@ -7,6 +7,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | Multiresolution Monogenic Signal Analysis Using the Riesz–Laplace Wavelet Transform | TIP 2009 | 2009-07 | None | - |
+| A Laplacian Approach to Multi-Oriented Text Detection in Video | TPAMI 2011 | 2011-02 | None | - |
 | Wavelets on graphs via deep learning| NeurlPS 2013 | 2013-12 | None | - |
 | Fourier feature approximations for periodic kernels in time-series modelling| AAAI 2018 | 2018-04 | None | - |
 | Spectral Graph Wavelet Transform as Feature Extractor for Machine Learning in Neuroimaging | ICASSP 2019 | 2019-03 | None | - |
