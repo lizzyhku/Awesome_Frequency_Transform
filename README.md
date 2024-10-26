@@ -42,6 +42,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |    | - | - | - | - |
 |    | - | - | - | - |
 |    | - | - | - | - |
+----------------------------------Time Series Domain----------------------------------
 
 
 
