@@ -47,3 +47,4 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |W-transformers: a wavelet-based transformer framework for univariate time series forecasting| 2022 21st IEEE international conference on machine learning and applications (ICMLA)| 2022-08 |[Github](https://github.com/CapWidow/W-Transformer) | - |
 |A Time Series Transformer based method for the rotating machinery fault diagnosis|Neuro Computing 2022| 2022-07|None| - |
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE Transactions on Neural Networks and Learning Systems 2023| 2023-07|None|-|
+|ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|-|
