@@ -49,3 +49,5 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE Transactions on Neural Networks and Learning Systems 2023| 2023-07|None|-|
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|-|
 |GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05|None|
+|CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01|[Github](https://github.com/wxie9/CARD) | - |
+
