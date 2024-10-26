@@ -45,6 +45,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | - |
 |Tslanet: Rethinking transformers for time series representation learning| Springer Science \& Business Media 2024| 2024-05 |[Github](https://github.com/emadeldeen24/TSLANet) | - |
 |W-transformers: a wavelet-based transformer framework for univariate time series forecasting| 2022 21st IEEE international conference on machine learning and applications (ICMLA)| 2022-08 |[Github](https://github.com/CapWidow/W-Transformer) | - |
-|A Time Series Transformer based method for the rotating machinery fault diagnosis|Neuro Computing 2022| 2022-07|None| - |
+|A Time Series Transformer based method for the rotating machinery fault diagnosis|Neurocomputing 2022| 2022-07|None| - |
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE Transactions on Neural Networks and Learning Systems 2023| 2023-07|None|-|
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|-|
+|GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05|None|
