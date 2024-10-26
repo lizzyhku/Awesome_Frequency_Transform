@@ -43,7 +43,6 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |    | - | - | - | - |
 ----------------------------------Time Series Domain----------------------------------
 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | - |
-|Tslanet: Rethinking transformers for time series representation learning| Springer Science \& Business Media 2024| 2024-05 |[Github]([https://github.com/
-emadeldeen24/TSLANet) | - |
+|Tslanet: Rethinking transformers for time series representation learning| Springer Science \& Business Media 2024| 2024-05 |[Github]([https://github.com/emadeldeen24/TSLANet) | - |
 
 
