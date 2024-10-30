@@ -6,6 +6,19 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+----------------------------------Low-level Vision Domain----------------------------------
+| Adaptive Wavelet Thresholding for Image Denoising and Compression | TIP 2000 | 2000-09 | None | - |
+| Oriented Wavelet Transform for Image Compression and Denoising | TIP 2006 | 2006-010 | None | - |
+| Least Square based Image Denoising using Wavelet Filters | Indian Journal of Science and Technology 2016 | 2016-08 | None | - |
+| Aerial and Satellite Image Denoising using Least Square Weighted Regularization Method  | Indian Journal of Science and Technology 2016 | 2016-08 | None | - |
+| Convolutional Neural Network Based Fault Detection for Rotating Machinery  | Journal of Sound and Vibration 2016 | 2016-09 | None | - |
+| Virtualization and deep recognition for system fault classification  | Journal of Manufacturing Systems 2017 | 2017-07 | None | - |
+| MFIF-DWT-CNN: Multi-focus ımage fusion based on discrete wavelet transform with deep convolutional neural network   | Multimedia Tools and Applications 2024 | 2023-06 | None | - |
+| ATCNN-DWT Integration: A Combined Approach for Advanced Medical Image Fusion   | International Conference on Modeling, Simulation & Intelligent Computing 2023 | 2023-12 | None | - |
+|    | - | - | - | - |
+|    | - | - | - | - |
+|    | - | - | - | - |
+|    | - | - | - | - |
 | Multiresolution Monogenic Signal Analysis Using the Riesz–Laplace Wavelet Transform | TIP 2009 | 2009-07 | None | - |
 | A Laplacian Approach to Multi-Oriented Text Detection in Video | TPAMI 2011 | 2011-02 | None | - |
 | Wavelets on graphs via deep learning| NeurlPS 2013 | 2013-12 | None | - |
