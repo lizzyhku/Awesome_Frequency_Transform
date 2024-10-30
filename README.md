@@ -8,7 +8,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |:--------|:--------:|:--------:|:--------:|:--------:|
 ----------------------------------Low-level Vision Domain----------------------------------
 | Adaptive Wavelet Thresholding for Image Denoising and Compression | TIP 2000 | 2000-09 | None | - |
-| Oriented Wavelet Transform for Image Compression and Denoising | TIP 2006 | 2006-010 | None | - |
+| Oriented Wavelet Transform for Image Compression and Denoising | TIP 2006 | 2006-10 | None | - |
 | Least Square based Image Denoising using Wavelet Filters | Indian Journal of Science and Technology 2016 | 2016-08 | None | - |
 | Aerial and Satellite Image Denoising using Least Square Weighted Regularization Method  | Indian Journal of Science and Technology 2016 | 2016-08 | None | - |
 | Convolutional Neural Network Based Fault Detection for Rotating Machinery  | Journal of Sound and Vibration 2016 | 2016-09 | None | - |
