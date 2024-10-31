@@ -138,3 +138,24 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Enhancing Object Detection in Layout Analysis: Leveraging Vision Transformer and Fourier Neural Operator   | 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT) | 2024-03 | None | - |
 | Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers   | Arxiv 2021 | 2021-11 | [Github](https://github.com/nvlabs/afno-transformer) | - |
 ----------------------------------Others----------------------------------
+| Spectral Networks and Locally Connected Networks on Graphs   | ICLR 2014 | 2014-05 | [Github](https://github.com/mdeff/cnn_graph) | - |
+| Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering   | NIPS 2016 | 2016-12 | [Github](https://github.com/mdeff/cnn_graph) | - |
+| Semi-Supervised Classification with Graph Convolutional Networks  | ICLR 2017 | 2017-04 | - | - |
+| Graph-based Isometry Invariant Representation Learning   | ICML 2017 | 2017-08 | [Github](https://github.com/tkipf/pygcn) | - |
+| FNet: Mixing Tokens with Fourier Transforms   | NAACL 2022 | 2022-07 | [Github](https://github.com/google-research/google-research) | - |
+| Graph Convolutional Neural Network Using Wavelet Transform   | Communication, Networks and Computing
+(CNC 2020) | 2022-01 | None | - |
+| Graph Wavelet Neural Network   | ICLR 2019 | 2019-05 | [Github](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) | - |
+| Wavelet Score-Based Generative Modeling   | NeurIPS 2022 | 2022-11 | None | - |
+| Wavelet Diffusion Models Are Fast and Scalable Image Generators   | CVPR 2023 | 2023-06 | [Github](https://github.com/vinairesearch/wavediff) | - |
+| Low-Light Image Enhancement with Wavelet-Based Diffusion Models   | TOG 2023 | 2023-12 | [Github](https://github.com/JianghaiSCU/Diffusion-Low-Light) | - |
+| Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation   | TOG 2024 | 2024-01 | None | - |
+| WaveDM: Wavelet-Based Diffusion Models for Image Restoration   | IEEE Transactions on Multimedia 2024 | 2024-02 | [Github](https://github.com/Easquel/WaveDM) | - |
+| Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion   | Arxiv 2024 | 2024-04 | [Github](https://github.com/hejh8/cfwd) | - |
+| How Powerful are Spectral Graph Neural Networks   | PMLR 2022 | 2022-06 | [Github](https://github.com/graphpku/jacobiconv) | - |
+| Multiresolution graph transformers and wavelet positional encoding for learning long-range and hierarchical structures   | The Journal of Chemical Physics 2023 | 2023-07 | [Github](https://github.com/hysonlab/multires-graph-transformer) | - |
+| Transformer embedded spectral-based graph network for facial expression recognition   | International Journal of Machine Learning and Cybernetics 2024 | 2023-11 | None | - |
+| BrainWaveNet: Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis   | MICCAI 2024 | 2024-10 | None | - |
+| A multi-graph spatial-temporal attention network for air-quality prediction   | Process Safety and Environmental Protection 2024 | 2024-01 | None | - |
+
+
