@@ -118,4 +118,23 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|-|
 |GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05|None|
 |CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01|[Github](https://github.com/wxie9/CARD) | - |
-
+----------------------------------Spatio-Temporal Dynamics Domain----------------------------------
+| Fourier Neural Operator for Parametric Partial Differential Equations   | ICLR 2021 | 2021-05 | [Github](https://github.com/neuraloperator/neuraloperator) | - |
+| On Universal Approximation and Error Bounds for Fourier Neural Operators   | JMLR 2021 | 2021-11 | None | - |
+| Factorized Fourier Neural Operators   | ICLR 2023 | 2023-05 | [Github](https://github.com/alasdairtran/fourierflow) | - |
+| High-frequency wavefield extrapolation using the Fourier neural operator   | Journal of Geophysics and Engineering 2022 | 2022-04 | None | - |
+| Neural Operators with Localized Integral and Differential Kernels   | ICML 2024 | 2024-07 | None | - |
+| RecFNO: A resolution-invariant flow and heat field reconstruction method from sparse observations via Fourier neural operator   | International Journal of Thermal Sciences 2024 | 2024-01 | [Github](https://github.com/zhaoxiaoyu1995/recfno) | - |
+| Enhancing Solutions for Complex PDEs: Introducing Complementary Convolution and Equivariant Attention in Fourier Neural Operators   | Arxiv 2024 | 2024-07 | None | - |
+| Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere   | PMLR 2023 | 2023-05 | [Github](https://github.com/nvidia/torch-harmonics) | - |
+| U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flowc  | Advances in Water Resources 2022 | 2022-05 | [Github](https://github.com/gegewen/ufno?tab=readme-ov-file) | - |
+| Fourier Neural Operator Network for Fast Photoacoustic Wave Simulations   | Algorithms 2023 | 2023-02 | None | - |
+| Resolution-Invariant Image Classification Based on Fourier Neural Operators   | SSVM 2023 | 2023-05 | None | - |
+| Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators   | ICLR 2022 | 2022-04 | None | - |
+| Fourier Neural Operator with Learned Deformations for PDEs on General Geometries   | JMLR 2023 | 2023-07 | [Github](https://github.com/neuraloperator/Geo-FNO) | - |
+| Choose a Transformer: Fourier or Galerkin   | NeurIPS 2021 | 2021-12 | None | - |
+| GNOT: A General Neural Operator Transformer for Operator Learning   | ICML 2023 | 2023-07 | [Github](https://github.com/thu-ml/gnot) | - |
+| A transformer-based neural operator for large-eddy simulation of turbulence   | Arxiv 2024 | 2024-06 | None | - |
+| Enhancing Object Detection in Layout Analysis: Leveraging Vision Transformer and Fourier Neural Operator   | 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT) | 2024-03 | None | - |
+| Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers   | Arxiv 2021 | 2021-11 | [Github](https://github.com/nvlabs/afno-transformer) | - |
+----------------------------------Others----------------------------------
