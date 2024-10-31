@@ -95,6 +95,21 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |    | - | - | - | - |
 |    | - | - | - | - |
 ----------------------------------Time Series Domain----------------------------------
+| Attention Is All You Need   | NIPS 2017 | 2017-12 | [Github](https://github.com/tensorflow/tensor2tensor) | - |
+| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 |2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | - |
+| Method to enhance time series rolling fault prediction by deep fast Fourier convolution   | Measurement 2024 | 2024-03 | None | - |
+| Fast and Accurate Partial Fourier Transform for Time Series Data  | KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining | 2021-08 | None | - |
+| Fourier Graph Convolution Transformer for Financial Multivariate Time Series Forecasting   | IJCNN 2024 | 2024-06 | None | - |
+| Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis   | Arxiv 2024 | 2024-10 | [Github](https://github.com/minkiml/NFM) | - |
+| From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction   | JMLR 2021 | 2021-01 | [Github](https://github.com/helange23/from_fourier_to_koopman) | - |
+| FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting   | KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining | 2024-08 | None | - |
+| MSGNet: Learning Multi-Scale Inter-series Correlations for Multivariate Time Series Forecasting   | AAAI 2024 | 2024-02 | [Github](https://github.com/yozhibo/msgnet) | - |
+| Long-Term Structural State Trend Forecasting Based on an FFT–Informer Model   | Applied Sciences 2023 | 2023-02 | None | - |
+| Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers   | Arxiv 2024 | 2024-06 | None | - |
+| A lightweight model using frequency, trend and temporal attention for long sequence time-series prediction   | Neural Computing and Applications 2023 | 2023-08 | None | - |
+| Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting   | Arxiv 2024 | 2024-04 | [Github](https://github.com/nhatthanhtran/fwin2023) | - |
+| Electric Load Forecasting with Fast Fourier Transform-Optimized Transformers   | 2023 3rd International Conference on Electronic Information Engineering and Computer Communication (EIECC) | 2023-12 | None | - |
+| FEDAF: frequency enhanced decomposed attention free transformer for long time series forecasting   | Neural Computing and Applications 2024 | 2024-05 | None | - |
 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | - |
 |Tslanet: Rethinking transformers for time series representation learning| Springer Science \& Business Media 2024| 2024-05 |[Github](https://github.com/emadeldeen24/TSLANet) | - |
 |W-transformers: a wavelet-based transformer framework for univariate time series forecasting| 2022 21st IEEE international conference on machine learning and applications (ICMLA)| 2022-08 |[Github](https://github.com/CapWidow/W-Transformer) | - |
