@@ -43,6 +43,23 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method Based on Fast Fourier Convolution and ConvNeXt   | CVPR 2023 | 2023-06 | [Github](https://github.com/zhouh115/dwt-ffc) | - |
 | Attention Retractable Frequency Fusion Transformer for Image Super Resolution   | CVPR 2023 | 2023-06 | None | - |
 ----------------------------------High-level Vision Domain----------------------------------
+| Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation   | Pattern Recognition 2023 | 2023-11 | None | - |
+| Adaptive Wavelet Transformer Network for 3D Shape Representation Learning   | ICLR 2022 | 2022-01 | None | - |
+| DecomFormer: Decompose Self-Attention Via Fourier Transform for VHR Aerial Image Scene Classification   | ICASSP 2023 | 2023-06 | None | - |
+| Frequency Domain Convolutional Neural Network: Accelerated CNN for Large Diabetic Retinopathy Image Classification   | Arxiv 2021 | 2021-06 | None | - |
+| Hypergraph wavelet neural networks for 3D object classification   | Neurocomputing 2021 | 2021-11 | None | - |
+| SAR Ship–Iceberg Discrimination in Arctic Conditions Using Deep Learning   | Remote Sensing 2022 | 2022-05 | None | - |
+| Generative Pretraining From Pixels   | ICML 2020 | 2020-04 | [Github](https://github.com/openai/image-gpt) | - |
+| An image is worth 16x16 words: Transformers for image recognition at scale   | ICLR 2021 | 2021-05 | [Github](https://github.com/google-research/vision_transformer) | - |
+| Discrete Wavelet Transform Meets Transformer: Unleashing the Full Potential of the Transformer for Visual Recognition   | IEEE Access 2023 | 2023-09 | None | - |
+| End-to-End Object Detection with Transformers    | ECCV 2020 | 2020-08 | [Github](https://github.com/facebookresearch/detr) | - |
+| Deformable DETR: Deformable Transformers for End-to-End Object Detection   | ICLR 2021 | 2021-05 | [Github](https://github.com/fundamentalvision/Deformable-DETR) | - |
+| Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | - |
+| Rethinking Graph Transformers with Spectral Attention   | NeurIPS 2021 | 2021-12 | [Github](https://github.com/DevinKreuzer/SAN) | - |
+| Learnable Spectral Wavelets on Dynamic Graphs to Capture Global Interactions   | AAAI 2023 | 2023-02 | [Github](https://github.com/ansonb/deft) | - |
+| Atrous Pyramid Transformer with Spectral Convolution for Image Inpainting   | ACM International Conference on Multimedia 2022 | 2022-10 | None | - |
+| DecomFormer: Decompose Self-Attention Via Fourier Transform for VHR Aerial Image Scene Classification   | ICASSP 2023 | 2023-06 | None | - |
+|    | - | - | - | - |
 | Multiresolution Monogenic Signal Analysis Using the Riesz–Laplace Wavelet Transform | TIP 2009 | 2009-07 | None | - |
 | A Laplacian Approach to Multi-Oriented Text Detection in Video | TPAMI 2011 | 2011-02 | None | - |
 | Wavelets on graphs via deep learning| NeurlPS 2013 | 2013-12 | None | - |
