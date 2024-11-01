@@ -15,12 +15,10 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Virtualization and deep recognition for system fault classification  | Journal of Manufacturing Systems 2017 | 2017-07 | None | - |
 | MFIF-DWT-CNN: Multi-focus ımage fusion based on discrete wavelet transform with deep convolutional neural network   | Multimedia Tools and Applications 2024 | 2023-06 | None | - |
 | ATCNN-DWT Integration: A Combined Approach for Advanced Medical Image Fusion   | International Conference on Modeling, Simulation & Intelligent Computing 2023 | 2023-12 | None | - |
-| WaveFusionNet: Infrared and visible image fusion based on multi-scale feature encoder–decoder and discrete wavelet decomposition   | Optics Communications 2024 | - | None | - |
+| WaveFusionNet: Infrared and visible image fusion based on multi-scale feature encoder–decoder and discrete wavelet decomposition   | Optics Communications 2024 | 2024-12 | None | - |
 | Semantic-Aware Fusion Network Based on Super-Resolution   | Sensors 2024 | 2024-06 | None | - |
-| Oriented Wavelet Transform for Image Compression and Denoising   | TIP 2006 | 2006-10 | None | - |
-| Multi-resolution Analysis of Multi-spectral Palmprints using Hybrid Wavelets for Identification   | IJACSA 2013 | 2013 | None | - |
-| A new multi-resolution hybrid wavelet for analysis and image compression   | International Journal of Electronics 2015 | 2014-04 | None | - |
 | TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework Using Self-Supervised Multi-Task Learning   | AAAI 2022 | 2022-06 | None | - |
+| Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection   | MICCAI 2023 | 2023-10 | [Github](https://github.com/xmindflow/Laplacian-Former) | - |
 | FrFT-based estimation of linear and nonlinear impairments using Vision Transformer   | Journal of Optical Communications and Networking 2024 | 2024-03 | None | - |
 | Redundant versus orthogonal wavelet decomposition for multisensor image fusion   | Pattern Recognition 2003 | 2003-04 | None | - |
 | Multi-directional Laplacian pyramid image fusion algorithm   | ICMCCE 2018 | 2018-09 | None | - |
@@ -32,16 +30,12 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | - |
 | SwinIR: Image Restoration Using Swin Transformer   | ICCV 2021 | 2021-10 | [Github](https://github.com/jingyunliang/swinir) | - |
 | SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution   | Arxiv 2023 | 2023-09 | [Github](https://github.com/Zdafeng/SwinFIR) | - |
-| Transformer-based Image Compression   | 2022 Data Compression Conference (DCC) | 2022-03 | None | - |
-| Restormer: Efficient Transformer for High-Resolution Image Restoration   | CVPR 2022 | 2022-06 | [Github](https://github.com/swz30/restormer) | - |
-| Light Field Image Super-Resolution With Transformers   | IEEE Signal Processing Letters 2022 | 2022-01 | [Github](https://github.com/ZhengyuLiang24/LFT) | - |
 | A cross-scale framework for low-light image enhancement using spatial–spectral information  | Computers and Electrical Engineering 2023 | 2023-03 | None | - |
 | Low Light RAW Image Enhancement Using Paired Fast Fourier Convolution and Transformer   | 2022 IEEE International Conference on Visual Communications and Image Processing (VCIP) | 2022-12 | None | - |
 | A versatile Wavelet-Enhanced CNN-Transformer for improved fluorescence microscopy image restoration   | Neural Networks 2024 | 2024-02 | None | - |
 | WaveFormer: A Wavelet Transformer for Parkinson Disease’s Retinal Layer Segmentation in OCT   |  2024 International Joint Conference on Neural Networks (IJCNN) | 2024-06 | None | - |
 | Fourier Series Expansion Based Filter Parametrization for Equivariant Convolutions   |  IEEE Transactions on Pattern Analysis and Machine Intelligence 2023 | 2023-04 | [Github](https://github.com/XieQi2015/F-Conv) | - |
 | Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method Based on Fast Fourier Convolution and ConvNeXt   | CVPR 2023 | 2023-06 | [Github](https://github.com/zhouh115/dwt-ffc) | - |
-| Attention Retractable Frequency Fusion Transformer for Image Super Resolution   | CVPR 2023 | 2023-06 | None | - |
 ----------------------------------High-level Vision Domain----------------------------------
 | Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation   | Pattern Recognition 2023 | 2023-11 | None | - |
 | Adaptive Wavelet Transformer Network for 3D Shape Representation Learning   | ICLR 2022 | 2022-01 | None | - |
