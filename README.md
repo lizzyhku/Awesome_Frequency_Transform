@@ -43,6 +43,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Frequency Domain Convolutional Neural Network: Accelerated CNN for Large Diabetic Retinopathy Image Classification   | Arxiv 2021 | 2021-06 | None | - |
 | Hypergraph wavelet neural networks for 3D object classification   | Neurocomputing 2021 | 2021-11 | None | - |
 | SAR Ship–Iceberg Discrimination in Arctic Conditions Using Deep Learning   | Remote Sensing 2022 | 2022-05 | None | - |
+| Wavelet Convolutions for Large Receptive Fields  | ECCV 2024 | 2024-10 | [Github](https://github.com/bgu-cs-vil/wtconv) | - |
 | Generative Pretraining From Pixels   | ICML 2020 | 2020-04 | [Github](https://github.com/openai/image-gpt) | - |
 | An image is worth 16x16 words: Transformers for image recognition at scale   | ICLR 2021 | 2021-05 | [Github](https://github.com/google-research/vision_transformer) | - |
 | Discrete Wavelet Transform Meets Transformer: Unleashing the Full Potential of the Transformer for Visual Recognition   | IEEE Access 2023 | 2023-09 | None | - |
