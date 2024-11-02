@@ -151,8 +151,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Semi-Supervised Classification with Graph Convolutional Networks  | ICLR 2017 | 2017-04 | - | - |
 | Graph-based Isometry Invariant Representation Learning   | ICML 2017 | 2017-08 | [Github](https://github.com/tkipf/pygcn) | - |
 | FNet: Mixing Tokens with Fourier Transforms   | NAACL 2022 | 2022-07 | [Github](https://github.com/google-research/google-research) | - |
-| Graph Convolutional Neural Network Using Wavelet Transform   | Communication, Networks and Computing
-(CNC 2020) | 2022-01 | None | - |
+| Graph Convolutional Neural Network Using Wavelet Transform  | Communication, Networks and Computing (CNC 2020) | 2022-01 | None | - |
 | Graph Wavelet Neural Network   | ICLR 2019 | 2019-05 | [Github](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) | - |
 | Wavelet Score-Based Generative Modeling   | NeurIPS 2022 | 2022-11 | None | - |
 | Wavelet Diffusion Models Are Fast and Scalable Image Generators   | CVPR 2023 | 2023-06 | [Github](https://github.com/vinairesearch/wavediff) | - |
