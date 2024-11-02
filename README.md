@@ -115,7 +115,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Long-Term Structural State Trend Forecasting Based on an FFT–Informer Model   | Applied Sciences 2023 | 2023-02 | None | - |
 | Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers   | Arxiv 2024 | 2024-06 | None | - |
 | A lightweight model using frequency, trend and temporal attention for long sequence time-series prediction   | Neural Computing and Applications 2023 | 2023-08 | None | - |
-| Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting   | Arxiv 2024 | 2024-04 | [Github](https://github.com/nhatthanhtran/fwin2023) | - |
+| Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting   | Arxiv 2024 | 2024-04 | [Github](https://github.com/nhatthanhtran/fwin2023) | [Github](https://github.com/nhatthanhtran/fwin2023) |
 | Electric Load Forecasting with Fast Fourier Transform-Optimized Transformers   | 2023 3rd International Conference on Electronic Information Engineering and Computer Communication (EIECC) | 2023-12 | None | - |
 | FEDAF: frequency enhanced decomposed attention free transformer for long time series forecasting   | Neural Computing and Applications 2024 | 2024-05 | None | - |
 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | - |
@@ -125,42 +125,42 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE Transactions on Neural Networks and Learning Systems 2023| 2023-07|None|-|
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|-|
 |GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05|None|
-|CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01|[Github](https://github.com/wxie9/CARD) | - |
+|CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01| [Github](https://github.com/wxie9/CARD) | [Github](https://github.com/wxie9/CARD) |
 ----------------------------------Spatio-Temporal Dynamics Domain----------------------------------
-| Fourier Neural Operator for Parametric Partial Differential Equations   | ICLR 2021 | 2021-05 | [Github](https://github.com/neuraloperator/neuraloperator) | - |
+| Fourier Neural Operator for Parametric Partial Differential Equations   | ICLR 2021 | 2021-05 | [Github](https://github.com/neuraloperator/neuraloperator) | [Github](https://neuraloperator.github.io/dev/index.html) |
 | On Universal Approximation and Error Bounds for Fourier Neural Operators   | JMLR 2021 | 2021-11 | None | - |
-| Factorized Fourier Neural Operators   | ICLR 2023 | 2023-05 | [Github](https://github.com/alasdairtran/fourierflow) | - |
+| Factorized Fourier Neural Operators   | ICLR 2023 | 2023-05 | [Github](https://github.com/alasdairtran/fourierflow) | [Github](https://github.com/alasdairtran/fourierflow) |
 | High-frequency wavefield extrapolation using the Fourier neural operator   | Journal of Geophysics and Engineering 2022 | 2022-04 | None | - |
 | Neural Operators with Localized Integral and Differential Kernels   | ICML 2024 | 2024-07 | None | - |
 | RecFNO: A resolution-invariant flow and heat field reconstruction method from sparse observations via Fourier neural operator   | International Journal of Thermal Sciences 2024 | 2024-01 | [Github](https://github.com/zhaoxiaoyu1995/recfno) | - |
 | Enhancing Solutions for Complex PDEs: Introducing Complementary Convolution and Equivariant Attention in Fourier Neural Operators   | Arxiv 2024 | 2024-07 | None | - |
-| Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere   | PMLR 2023 | 2023-05 | [Github](https://github.com/nvidia/torch-harmonics) | - |
+| Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere   | PMLR 2023 | 2023-05 | [Github](https://github.com/nvidia/torch-harmonics) | [Github](https://github.com/nvidia/torch-harmonics?tab=readme-ov-file#getting-started) |
 | U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flowc  | Advances in Water Resources 2022 | 2022-05 | [Github](https://github.com/gegewen/ufno?tab=readme-ov-file) | - |
 | Fourier Neural Operator Network for Fast Photoacoustic Wave Simulations   | Algorithms 2023 | 2023-02 | None | - |
 | Resolution-Invariant Image Classification Based on Fourier Neural Operators   | SSVM 2023 | 2023-05 | None | - |
 | Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators   | ICLR 2022 | 2022-04 | None | - |
 | Fourier Neural Operator with Learned Deformations for PDEs on General Geometries   | JMLR 2023 | 2023-07 | [Github](https://github.com/neuraloperator/Geo-FNO) | - |
 | Choose a Transformer: Fourier or Galerkin   | NeurIPS 2021 | 2021-12 | None | - |
-| GNOT: A General Neural Operator Transformer for Operator Learning   | ICML 2023 | 2023-07 | [Github](https://github.com/thu-ml/gnot) | - |
+| GNOT: A General Neural Operator Transformer for Operator Learning   | ICML 2023 | 2023-07 | [Github](https://github.com/thu-ml/gnot) | [Github](https://github.com/thu-ml/gnot) |
 | A transformer-based neural operator for large-eddy simulation of turbulence   | Arxiv 2024 | 2024-06 | None | - |
 | Enhancing Object Detection in Layout Analysis: Leveraging Vision Transformer and Fourier Neural Operator   | 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT) | 2024-03 | None | - |
 | Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers   | Arxiv 2021 | 2021-11 | [Github](https://github.com/nvlabs/afno-transformer) | - |
 ----------------------------------Others----------------------------------
-| Spectral Networks and Locally Connected Networks on Graphs   | ICLR 2014 | 2014-05 | [Github](https://github.com/mdeff/cnn_graph) | - |
-| Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering   | NIPS 2016 | 2016-12 | [Github](https://github.com/mdeff/cnn_graph) | - |
+| Spectral Networks and Locally Connected Networks on Graphs   | ICLR 2014 | 2014-05 | [Github](https://github.com/mdeff/cnn_graph) | [Github](https://github.com/mdeff/cnn_graph) |
+| Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering   | NIPS 2016 | 2016-12 | [Github](https://github.com/mdeff/cnn_graph) | [Jupyter Notebook](https://nbviewer.org/github/mdeff/cnn_graph/blob/outputs/usage.ipynb) |
 | Semi-Supervised Classification with Graph Convolutional Networks  | ICLR 2017 | 2017-04 | - | - |
 | Graph-based Isometry Invariant Representation Learning   | ICML 2017 | 2017-08 | [Github](https://github.com/tkipf/pygcn) | - |
 | FNet: Mixing Tokens with Fourier Transforms   | NAACL 2022 | 2022-07 | [Github](https://github.com/google-research/google-research) | - |
 | Graph Convolutional Neural Network Using Wavelet Transform  | Communication, Networks and Computing (CNC 2020) | 2022-01 | None | - |
 | Graph Wavelet Neural Network   | ICLR 2019 | 2019-05 | [Github](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) | - |
 | Wavelet Score-Based Generative Modeling   | NeurIPS 2022 | 2022-11 | None | - |
-| Wavelet Diffusion Models Are Fast and Scalable Image Generators   | CVPR 2023 | 2023-06 | [Github](https://github.com/vinairesearch/wavediff) | - |
-| Low-Light Image Enhancement with Wavelet-Based Diffusion Models   | TOG 2023 | 2023-12 | [Github](https://github.com/JianghaiSCU/Diffusion-Low-Light) | - |
+| Wavelet Diffusion Models Are Fast and Scalable Image Generators   | CVPR 2023 | 2023-06 | [Github](https://github.com/vinairesearch/wavediff) | [Github](https://github.com/vinairesearch/wavediff?tab=readme-ov-file#how-to-run) |
+| Low-Light Image Enhancement with Wavelet-Based Diffusion Models   | TOG 2023 | 2023-12 | [Github](https://github.com/JianghaiSCU/Diffusion-Low-Light) | [Github](https://github.com/JianghaiSCU/Diffusion-Low-Light) |
 | Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation   | TOG 2024 | 2024-01 | None | - |
 | WaveDM: Wavelet-Based Diffusion Models for Image Restoration   | IEEE Transactions on Multimedia 2024 | 2024-02 | [Github](https://github.com/Easquel/WaveDM) | - |
-| Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion   | Arxiv 2024 | 2024-04 | [Github](https://github.com/hejh8/cfwd) | - |
-| How Powerful are Spectral Graph Neural Networks   | PMLR 2022 | 2022-06 | [Github](https://github.com/graphpku/jacobiconv) | - |
-| Multiresolution graph transformers and wavelet positional encoding for learning long-range and hierarchical structures   | The Journal of Chemical Physics 2023 | 2023-07 | [Github](https://github.com/hysonlab/multires-graph-transformer) | - |
+| Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion   | Arxiv 2024 | 2024-04 | [Github](https://github.com/hejh8/cfwd) | [Github](https://github.com/hejh8/cfwd) |
+| How Powerful are Spectral Graph Neural Networks   | PMLR 2022 | 2022-06 | [Github](https://github.com/graphpku/jacobiconv) | [Github](https://github.com/graphpku/jacobiconv) |
+| Multiresolution graph transformers and wavelet positional encoding for learning long-range and hierarchical structures   | The Journal of Chemical Physics 2023 | 2023-07 | [Github](https://github.com/hysonlab/multires-graph-transformer) | [Github](https://github.com/hysonlab/multires-graph-transformer) |
 | Transformer embedded spectral-based graph network for facial expression recognition   | International Journal of Machine Learning and Cybernetics 2024 | 2023-11 | None | - |
 | BrainWaveNet: Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis   | MICCAI 2024 | 2024-10 | None | - |
 | A multi-graph spatial-temporal attention network for air-quality prediction   | Process Safety and Environmental Protection 2024 | 2024-01 | None | - |
