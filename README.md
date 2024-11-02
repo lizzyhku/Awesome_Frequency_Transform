@@ -19,6 +19,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | ATCNN-DWT Integration: A Combined Approach for Advanced Medical Image Fusion   | International Conference on Modeling, Simulation & Intelligent Computing 2023 | 2023-12 | None | - |
 | WaveFusionNet: Infrared and visible image fusion based on multi-scale feature encoder–decoder and discrete wavelet decomposition   | Optics Communications 2024 | 2024-12 | None | - |
 | Semantic-Aware Fusion Network Based on Super-Resolution   | Sensors 2024 | 2024-06 | None | - |
+| On Efficient Transformer-Based Image Pre-training for Low-Level Vision   | IJCAI 2023 | 2023-08 | [Github](https://github.com/fenglinglwb/edt) | - |
 | TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework Using Self-Supervised Multi-Task Learning   | AAAI 2022 | 2022-06 | None | - |
 | Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection   | MICCAI 2023 | 2023-10 | [Github](https://github.com/xmindflow/Laplacian-Former) | - |
 | FrFT-based estimation of linear and nonlinear impairments using Vision Transformer   | Journal of Optical Communications and Networking 2024 | 2024-03 | None | - |
@@ -39,12 +40,20 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Fourier Series Expansion Based Filter Parametrization for Equivariant Convolutions   |  IEEE Transactions on Pattern Analysis and Machine Intelligence 2023 | 2023-04 | [Github](https://github.com/XieQi2015/F-Conv) | - |
 | Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method Based on Fast Fourier Convolution and ConvNeXt   | CVPR 2023 | 2023-06 | [Github](https://github.com/zhouh115/dwt-ffc) | - |
 ----------------------------------High-level Vision Domain----------------------------------
+| Focal Loss for Dense Object Detection   | ICCV 2017 | 2017-10 | [Github](https://github.com/facebookresearch/detectron) | - |
+| Dense connection and depthwise separable convolution based CNN for polarimetric SAR image classification   | Knowledge-Based Systems 2020 | 2020-04 | None | - |
+| DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs   | IEEE Transactions on Pattern Analysis and Machine Intelligence 2017 | 2017-04 | [Github](https://github.com/tensorflow/models/tree/master/research/deeplab) | - |
+| Unified Perceptual Parsing for Scene Understanding   | ECCV 2018 | 2018-09 | [Github](https://github.com/CSAILVision/unifiedparsing) | - |
+| Partial Convolution for Padding, Inpainting, and Image Synthesis   | IEEE Transactions on Pattern Analysis and Machine Intelligence 2023 | 2023-05 | None | - |
 | Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation   | Pattern Recognition 2023 | 2023-11 | None | - |
 | Adaptive Wavelet Transformer Network for 3D Shape Representation Learning   | ICLR 2022 | 2022-01 | None | - |
 | DecomFormer: Decompose Self-Attention Via Fourier Transform for VHR Aerial Image Scene Classification   | ICASSP 2023 | 2023-06 | None | - |
 | Frequency Domain Convolutional Neural Network: Accelerated CNN for Large Diabetic Retinopathy Image Classification   | Arxiv 2021 | 2021-06 | None | - |
 | Hypergraph wavelet neural networks for 3D object classification   | Neurocomputing 2021 | 2021-11 | None | - |
 | SAR Ship–Iceberg Discrimination in Arctic Conditions Using Deep Learning   | Remote Sensing 2022 | 2022-05 | None | - |
+| Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation   | Arxiv 2022 | 2022-09 | None | - |
+| Frequency Spectrum Features Modeling for Real-Time Tiny Object Detection in Remote Sensing Image   |  IEEE Geoscience and Remote Sensing Letters 2024 | 2024-06 | None | - |
+| Combining frequency transformer and CNNs for medical image segmentation   | Multimedia Tools and Applications 2024 | 2023-07 | None | - |
 | Wavelet Convolutions for Large Receptive Fields  | ECCV 2024 | 2024-10 | [Github](https://github.com/bgu-cs-vil/wtconv) | - |
 | Generative Pretraining From Pixels   | ICML 2020 | 2020-04 | [Github](https://github.com/openai/image-gpt) | - |
 | An image is worth 16x16 words: Transformers for image recognition at scale   | ICLR 2021 | 2021-05 | [Github](https://github.com/google-research/vision_transformer) | - |
@@ -56,6 +65,8 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Learnable Spectral Wavelets on Dynamic Graphs to Capture Global Interactions   | AAAI 2023 | 2023-02 | [Github](https://github.com/ansonb/deft) | - |
 | Atrous Pyramid Transformer with Spectral Convolution for Image Inpainting   | ACM International Conference on Multimedia 2022 | 2022-10 | None | - |
 | DecomFormer: Decompose Self-Attention Via Fourier Transform for VHR Aerial Image Scene Classification   | ICASSP 2023 | 2023-06 | None | - |
+|    | - | - | - | - |
+|    | - | - | - | - |
 |    | - | - | - | - |
 | Multiresolution Monogenic Signal Analysis Using the Riesz–Laplace Wavelet Transform | TIP 2009 | 2009-07 | None | - |
 | A Laplacian Approach to Multi-Oriented Text Detection in Video | TPAMI 2011 | 2011-02 | None | - |
@@ -90,8 +101,8 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |    | - | - | - | - |
 |    | - | - | - | - |
 |    | - | - | - | - |
-|    | - | - | - | - |
 ----------------------------------Time Series Domain----------------------------------
+| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | - |
 | Attention Is All You Need   | NIPS 2017 | 2017-12 | [Github](https://github.com/tensorflow/tensor2tensor) | - |
 | ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 |2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | - |
 | Method to enhance time series rolling fault prediction by deep fast Fourier convolution   | Measurement 2024 | 2024-03 | None | - |
