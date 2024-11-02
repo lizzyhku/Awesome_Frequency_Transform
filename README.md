@@ -7,7 +7,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 ----------------------------------Low-level Vision Domain----------------------------------
-| A general framework for low level vision   | TIP 1998 | 1998-03 | None | - |
+| A general framework for low level vision   | TIP 1998 | 1998-03 | None | None |
 | Learning Low-Level Vision   | International Journal of Computer Vision 2000 | 2000-10 | None | None |
 | Adaptive Wavelet Thresholding for Image Denoising and Compression | TIP 2000 | 2000-09 | None | None |
 | Oriented Wavelet Transform for Image Compression and Denoising | TIP 2006 | 2006-10 | None | None |
