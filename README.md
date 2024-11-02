@@ -19,9 +19,9 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | ATCNN-DWT Integration: A Combined Approach for Advanced Medical Image Fusion   | International Conference on Modeling, Simulation & Intelligent Computing 2023 | 2023-12 | None | - |
 | WaveFusionNet: Infrared and visible image fusion based on multi-scale feature encoder–decoder and discrete wavelet decomposition   | Optics Communications 2024 | 2024-12 | None | - |
 | Semantic-Aware Fusion Network Based on Super-Resolution   | Sensors 2024 | 2024-06 | None | - |
-| On Efficient Transformer-Based Image Pre-training for Low-Level Vision   | IJCAI 2023 | 2023-08 | [Github](https://github.com/fenglinglwb/edt) | - |
+| On Efficient Transformer-Based Image Pre-training for Low-Level Vision   | IJCAI 2023 | 2023-08 | [Github](https://github.com/fenglinglwb/edt) | [Github](https://github.com/fenglinglwb/edt) |
 | TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework Using Self-Supervised Multi-Task Learning   | AAAI 2022 | 2022-06 | None | - |
-| Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection   | MICCAI 2023 | 2023-10 | [Github](https://github.com/xmindflow/Laplacian-Former) | - |
+| Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection   | MICCAI 2023 | 2023-10 | [Github](https://github.com/xmindflow/Laplacian-Former) | [Github](https://github.com/xmindflow/Laplacian-Former) |
 | FrFT-based estimation of linear and nonlinear impairments using Vision Transformer   | Journal of Optical Communications and Networking 2024 | 2024-03 | None | - |
 | Redundant versus orthogonal wavelet decomposition for multisensor image fusion   | Pattern Recognition 2003 | 2003-04 | None | - |
 | Multi-directional Laplacian pyramid image fusion algorithm   | ICMCCE 2018 | 2018-09 | None | - |
@@ -30,20 +30,20 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Efficient Frequency Domain-Based Transformers for High-Quality Image Deblurring   | CVPR 2023 | 2023-06 | [Github](https://github.com/kkkls/fftformer) | - |
 | Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution   | Arxiv 2024 | 2024-04 | [Github](https://github.com/mandalinadagi/wavelettention) | - |
 | WaveletFormerNet: A Transformer-based wavelet network for real-world non-homogeneous and dense fog removal   | Image and Vision Computing 2024 | 2024-06 | None | - |
-| Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | - |
-| SwinIR: Image Restoration Using Swin Transformer   | ICCV 2021 | 2021-10 | [Github](https://github.com/jingyunliang/swinir) | - |
-| SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution   | Arxiv 2023 | 2023-09 | [Github](https://github.com/Zdafeng/SwinFIR) | - |
+| Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | [Github](https://github.com/huawei-noah/Pretrained-IPT) |
+| SwinIR: Image Restoration Using Swin Transformer   | ICCV 2021 | 2021-10 | [Github](https://github.com/jingyunliang/swinir) | [Colab](https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb) |
+| SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution   | Arxiv 2023 | 2023-09 | [Github](https://github.com/Zdafeng/SwinFIR) | [Github](https://github.com/Zdafeng/SwinFIR) |
 | A cross-scale framework for low-light image enhancement using spatial–spectral information  | Computers and Electrical Engineering 2023 | 2023-03 | None | - |
 | Low Light RAW Image Enhancement Using Paired Fast Fourier Convolution and Transformer   | 2022 IEEE International Conference on Visual Communications and Image Processing (VCIP) | 2022-12 | None | - |
 | A versatile Wavelet-Enhanced CNN-Transformer for improved fluorescence microscopy image restoration   | Neural Networks 2024 | 2024-02 | None | - |
 | WaveFormer: A Wavelet Transformer for Parkinson Disease’s Retinal Layer Segmentation in OCT   |  2024 International Joint Conference on Neural Networks (IJCNN) | 2024-06 | None | - |
 | Fourier Series Expansion Based Filter Parametrization for Equivariant Convolutions   |  IEEE Transactions on Pattern Analysis and Machine Intelligence 2023 | 2023-04 | [Github](https://github.com/XieQi2015/F-Conv) | - |
-| Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method Based on Fast Fourier Convolution and ConvNeXt   | CVPR 2023 | 2023-06 | [Github](https://github.com/zhouh115/dwt-ffc) | - |
+| Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method Based on Fast Fourier Convolution and ConvNeXt   | CVPR 2023 | 2023-06 | [Github](https://github.com/zhouh115/dwt-ffc) | [Github](https://github.com/zhouh115/dwt-ffc) |
 ----------------------------------High-level Vision Domain----------------------------------
 | Focal Loss for Dense Object Detection   | ICCV 2017 | 2017-10 | [Github](https://github.com/facebookresearch/detectron) | - |
 | Dense connection and depthwise separable convolution based CNN for polarimetric SAR image classification   | Knowledge-Based Systems 2020 | 2020-04 | None | - |
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs   | IEEE Transactions on Pattern Analysis and Machine Intelligence 2017 | 2017-04 | [Github](https://github.com/tensorflow/models/tree/master/research/deeplab) | - |
-| Unified Perceptual Parsing for Scene Understanding   | ECCV 2018 | 2018-09 | [Github](https://github.com/CSAILVision/unifiedparsing) | - |
+| Unified Perceptual Parsing for Scene Understanding   | ECCV 2018 | 2018-09 | [Github](https://github.com/CSAILVision/unifiedparsing) | [Github](https://github.com/CSAILVision/unifiedparsing) |
 | Partial Convolution for Padding, Inpainting, and Image Synthesis   | IEEE Transactions on Pattern Analysis and Machine Intelligence 2023 | 2023-05 | None | - |
 | Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation   | Pattern Recognition 2023 | 2023-11 | None | - |
 | Adaptive Wavelet Transformer Network for 3D Shape Representation Learning   | ICLR 2022 | 2022-01 | None | - |
@@ -54,13 +54,13 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation   | Arxiv 2022 | 2022-09 | None | - |
 | Frequency Spectrum Features Modeling for Real-Time Tiny Object Detection in Remote Sensing Image   |  IEEE Geoscience and Remote Sensing Letters 2024 | 2024-06 | None | - |
 | Combining frequency transformer and CNNs for medical image segmentation   | Multimedia Tools and Applications 2024 | 2023-07 | None | - |
-| Wavelet Convolutions for Large Receptive Fields  | ECCV 2024 | 2024-10 | [Github](https://github.com/bgu-cs-vil/wtconv) | - |
-| Generative Pretraining From Pixels   | ICML 2020 | 2020-04 | [Github](https://github.com/openai/image-gpt) | - |
-| An image is worth 16x16 words: Transformers for image recognition at scale   | ICLR 2021 | 2021-05 | [Github](https://github.com/google-research/vision_transformer) | - |
+| Wavelet Convolutions for Large Receptive Fields  | ECCV 2024 | 2024-10 | [Github](https://github.com/bgu-cs-vil/wtconv) | [Github](https://github.com/bgu-cs-vil/wtconv) |
+| Generative Pretraining From Pixels   | ICML 2020 | 2020-04 | [Github](https://github.com/openai/image-gpt) | [Github](https://github.com/openai/image-gpt) |
+| An image is worth 16x16 words: Transformers for image recognition at scale   | ICLR 2021 | 2021-05 | [Github](https://github.com/google-research/vision_transformer) | [Colab](https://colab.research.google.com/github/google-research/vision_transformer/blob/main/vit_jax.ipynb) |
 | Discrete Wavelet Transform Meets Transformer: Unleashing the Full Potential of the Transformer for Visual Recognition   | IEEE Access 2023 | 2023-09 | None | - |
-| End-to-End Object Detection with Transformers    | ECCV 2020 | 2020-08 | [Github](https://github.com/facebookresearch/detr) | - |
-| Deformable DETR: Deformable Transformers for End-to-End Object Detection   | ICLR 2021 | 2021-05 | [Github](https://github.com/fundamentalvision/Deformable-DETR) | - |
-| Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | - |
+| End-to-End Object Detection with Transformers    | ECCV 2020 | 2020-08 | [Github](https://github.com/facebookresearch/detr) | [Colab](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb) |
+| Deformable DETR: Deformable Transformers for End-to-End Object Detection   | ICLR 2021 | 2021-05 | [Github](https://github.com/fundamentalvision/Deformable-DETR) | [Github](https://github.com/fundamentalvision/Deformable-DETR) |
+| Pre-Trained Image Processing Transformer   | CVPR 2021 | 2021-06 | [Github](https://github.com/huawei-noah/Pretrained-IPT) | [Github](https://github.com/huawei-noah/Pretrained-IPT) |
 | Rethinking Graph Transformers with Spectral Attention   | NeurIPS 2021 | 2021-12 | [Github](https://github.com/DevinKreuzer/SAN) | - |
 | Learnable Spectral Wavelets on Dynamic Graphs to Capture Global Interactions   | AAAI 2023 | 2023-02 | [Github](https://github.com/ansonb/deft) | - |
 | Atrous Pyramid Transformer with Spectral Convolution for Image Inpainting   | ACM International Conference on Multimedia 2022 | 2022-10 | None | - |
@@ -102,14 +102,14 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |    | - | - | - | - |
 |    | - | - | - | - |
 ----------------------------------Time Series Domain----------------------------------
-| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | - |
+| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) |
 | Attention Is All You Need   | NIPS 2017 | 2017-12 | [Github](https://github.com/tensorflow/tensor2tensor) | - |
-| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 |2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | - |
+| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 |2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) |
 | Method to enhance time series rolling fault prediction by deep fast Fourier convolution   | Measurement 2024 | 2024-03 | None | - |
 | Fast and Accurate Partial Fourier Transform for Time Series Data  | KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining | 2021-08 | None | - |
 | Fourier Graph Convolution Transformer for Financial Multivariate Time Series Forecasting   | IJCNN 2024 | 2024-06 | None | - |
-| Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis   | Arxiv 2024 | 2024-10 | [Github](https://github.com/minkiml/NFM) | - |
-| From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction   | JMLR 2021 | 2021-01 | [Github](https://github.com/helange23/from_fourier_to_koopman) | - |
+| Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis   | Arxiv 2024 | 2024-10 | [Github](https://github.com/minkiml/NFM) | [Github](https://github.com/minkiml/NFM) |
+| From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction   | JMLR 2021 | 2021-01 | [Github](https://github.com/helange23/from_fourier_to_koopman) | [Youtube](https://www.youtube.com/watch?v=RBYFsFr4soo) |
 | FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting   | KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining | 2024-08 | None | - |
 | MSGNet: Learning Multi-Scale Inter-series Correlations for Multivariate Time Series Forecasting   | AAAI 2024 | 2024-02 | [Github](https://github.com/yozhibo/msgnet) | - |
 | Long-Term Structural State Trend Forecasting Based on an FFT–Informer Model   | Applied Sciences 2023 | 2023-02 | None | - |
