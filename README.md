@@ -145,7 +145,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | A transformer-based neural operator for large-eddy simulation of turbulence   | Arxiv 2024 | 2024-06 | None | None |
 | Enhancing Object Detection in Layout Analysis: Leveraging Vision Transformer and Fourier Neural Operator   | 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT) | 2024-03 | None | None |
 | Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers   | Arxiv 2021 | 2021-11 | [Github](https://github.com/nvlabs/afno-transformer) | None |
-----------------------------------Others----------------------------------
+----------------------------------Graph Domain----------------------------------
 | Spectral Networks and Locally Connected Networks on Graphs   | ICLR 2014 | 2014-05 | [Github](https://github.com/mdeff/cnn_graph) | [Github](https://github.com/mdeff/cnn_graph) |
 | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering   | NIPS 2016 | 2016-12 | [Github](https://github.com/mdeff/cnn_graph) | [Jupyter Notebook](https://nbviewer.org/github/mdeff/cnn_graph/blob/outputs/usage.ipynb) |
 | Semi-Supervised Classification with Graph Convolutional Networks  | ICLR 2017 | 2017-04 | None | None |
