@@ -124,7 +124,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 |A Time Series Transformer based method for the rotating machinery fault diagnosis|Neurocomputing 2022| 2022-07|None| None |
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE Transactions on Neural Networks and Learning Systems 2023| 2023-07 | None | None |
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|arXiv 2022|2022-02|None|None|
-|GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05|None|
+|GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05| [Github](https://github.com/MythosAd/GRAformer)| None|
 |CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01| [Github](https://github.com/wxie9/CARD) | [Github](https://github.com/wxie9/CARD) |
 ----------------------------------Spatio-Temporal Dynamics Domain----------------------------------
 | Fourier Neural Operator for Parametric Partial Differential Equations   | ICLR 2021 | 2021-05 | [Github](https://github.com/neuraloperator/neuraloperator) | [Github](https://neuraloperator.github.io/dev/index.html) |
