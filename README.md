@@ -159,7 +159,7 @@ Learning in the Frequency Domain: A Comprehensive Survey and Benchmark on Fourie
 | Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation   | TOG 2024 | 2024-01 | None | None |
 | WaveDM: Wavelet-Based Diffusion Models for Image Restoration   | IEEE Transactions on Multimedia 2024 | 2024-02 | [Github](https://github.com/Easquel/WaveDM) | None |
 | Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion   | Arxiv 2024 | 2024-04 | [Github](https://github.com/hejh8/cfwd) | [Github](https://github.com/hejh8/cfwd) |
-| How Powerful are Spectral Graph Neural Networks   | PMLR 2022 | 2022-06 | [Github](https://github.com/graphpku/jacobiconv) | [Github](https://github.com/graphpku/jacobiconv) |
+| How Powerful are Spectral Graph Neural Networks   | ICML 2022 | 2022-06 | [Github](https://github.com/graphpku/jacobiconv) | [Github](https://github.com/graphpku/jacobiconv) |
 | Multiresolution graph transformers and wavelet positional encoding for learning long-range and hierarchical structures   | The Journal of Chemical Physics 2023 | 2023-07 | [Github](https://github.com/hysonlab/multires-graph-transformer) | [Github](https://github.com/hysonlab/multires-graph-transformer) |
 | Transformer embedded spectral-based graph network for facial expression recognition   | International Journal of Machine Learning and Cybernetics 2024 | 2023-11 | None | None |
 | BrainWaveNet: Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis   | MICCAI 2024 | 2024-10 | None | None |
