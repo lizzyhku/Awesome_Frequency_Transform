@@ -23,7 +23,6 @@ Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series A
 | Electric Load Forecasting with Fast Fourier Transform-Optimized Transformers   | EIECC 2023 | 2023-12 | None | None |
 | FEDAF: frequency enhanced decomposed attention free transformer for long time series forecasting   | NCA 2024 | 2024-05 | None | None |
 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting | ICML 2022 | 2022-07 | [Github](https://github.com/MAZiqing/FEDformer) | None |
-|Tslanet: Rethinking transformers for time series representation learning| ICML 2024 | 2024-05 |[Github](https://github.com/emadeldeen24/TSLANet) | None |
 |W-transformers: a wavelet-based transformer framework for univariate time series forecasting| ICMLA 2022| 2022-08 |[Github](https://github.com/CapWidow/W-Transformer) | None |
 |A Time Series Transformer based method for the rotating machinery fault diagnosis|Neurocomputing 2022| 2022-07|None| None |
 |Self-supervised time series representation learning via cross reconstruction transformer| IEEE TNNLS 2023| 2023-07 | None | None |
