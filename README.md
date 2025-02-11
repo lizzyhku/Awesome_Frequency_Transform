@@ -43,8 +43,7 @@ Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series A
 | CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching | ICLR 2025 | 2025-04 | [Github](https://anonymous.4open.science/r/CATCH-E535/README.md) | None |
 | WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series | AAAI 2023 | 2023-06 | [Github](https://github.com/alanyoungCN/WaveForM) | None |
 | WFTNet: Exploiting Global and Local Periodicity in Long-Term Time Series Forecasting | ICASSP 2024 | 2024-04 | [Github](https://github.com/Hank0626/WFTNet) | None |
-| Novel wavelet-LSTM approach for time series prediction | Neural Computing and
-Applications 2024 | 2024-11 | None | None |
+| Novel wavelet-LSTM approach for time series prediction | Neural Computing and Applications 2024 | 2024-11 | None | None |
 | Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting | Arxiv 2024 | 2024-08 | [Github](https://github.com/jafarbakhshaliyev/Wave-Augs) | None |
 | SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting | Arxiv 2025 | 2025-01 | [Github](https://github.com/LancelotXWX/SWIFT) | None |
 | Wavelet Diffusion Neural Operator | ICLR 2025 | 2025-04 | None | None |
