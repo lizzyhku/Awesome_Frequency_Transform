@@ -30,7 +30,6 @@ Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series A
 |ETSformer: Exponential Smoothing Transformers for Time-series Forecasting|ArXiv 2022|2022-02|None|None|
 |GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05| [Github](https://github.com/MythosAd/GRAformer)| None|
 |CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01| [Github](https://github.com/wxie9/CARD) | [Github](https://github.com/wxie9/CARD) |
-
 | Timesnet: Temporal 2d-variation modeling for general time series analysis | ICLR 2023 | 2023-05 |[Github](https://github.com/thuml/TimesNet) | None |
 | GAFNO: Gated Adaptive Fourier Neural Operator for Task-Agnostic Time Series Modeling | ICDM 2023 | 2023-12 | None | None |
 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | NeurIPS 2023 | 2023-12 | [Github](https://github.com/aikunyi/FourierGNN) | None |
