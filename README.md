@@ -31,3 +31,20 @@ Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series A
 |GRAformer: A gated residual attention transformer for multivariate time series forecasting| Neurocomputing 2024|2024-05| [Github](https://github.com/MythosAd/GRAformer)| None|
 |CARD: Channel aligned robust blend transformer for time series forecasting|ICLR 2024| 2024-01| [Github](https://github.com/wxie9/CARD) | [Github](https://github.com/wxie9/CARD) |
 
+| Timesnet: Temporal 2d-variation modeling for general time series analysis | ICLR 2023 | 2023-05 |[Github](https://github.com/thuml/TimesNet) | None |
+| GAFNO: Gated Adaptive Fourier Neural Operator for Task-Agnostic Time Series Modeling | ICDM 2023 | 2023-12 | None | None |
+| FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | NeurIPS 2023 | 2023-12 | [Github](https://github.com/aikunyi/FourierGNN) | None |
+| Operator-Learning-Inspired Modeling of Neural Ordinary Differential Equations | AAAI 2024 | 2024-03 | None | None |
+| Tslanet: Rethinking transformers for time series representation learning | ICML 2024 | 2024-07 | [Github](https://github.com/emadeldeen24/TSLANet) | None |
+| FITS: Modeling Time Series with  Parameters | ICLR 2024 | 2024-05 | [Github](https://github.com/VEWOXIC/FITS) | None |
+| Interpretable Multivariate Time Series Forecasting Using Neural Fourier Transform | Arxiv 2024 | 2024-05 | [Github](https://github.com/2noamk/nft) | None |
+| Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | Arxiv 2024 | 2024-07 | None | None |
+| PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction | ACM MM 2024 | 2024-10 | [Github](https://github.com/easylearningscores/pastnet) | None |
+| FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts | AISTATS 2025  | 2025-05 | None | None |
+| TimeKAN: A Transparent KAN-Based Approach for Multivariate Time Series Forecasting | ICLR 2025 | 2025-04 | [Github](https://github.com/huangst21/TimeKAN) | None |
+| CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching | ICLR 2025 | 2025-04 | [Github](https://anonymous.4open.science/r/CATCH-E535/README.md) | None |
+
+
+
+
+
