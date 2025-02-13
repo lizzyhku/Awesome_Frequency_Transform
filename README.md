@@ -1,5 +1,5 @@
-# X_Transform
-Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series Analysis
+# Awesome_Frequency_Transform
+## Beyond the Time Domain: Recent Advances on Frequency Transforms in Time Series Analysis
 
 
 ### Existing Paper
