@@ -6,9 +6,6 @@
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) |
-| Attention Is All You Need   | NIPS 2017 | 2017-12 | [Github](https://github.com/tensorflow/tensor2tensor) | None |
-| ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 |2012-12 | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) | [Codalab](https://worksheets.codalab.org/worksheets/0xfafccca55b584e6eb1cf71979ad8e778) |
 | Method to enhance time series rolling fault prediction by deep fast Fourier convolution   | Measurement 2024 | 2024-03 | None | None |
 | Fast and Accurate Partial Fourier Transform for Time Series Data  | KDD 2021 | 2021-08 | None | None |
 | Fourier Graph Convolution Transformer for Financial Multivariate Time Series Forecasting   | IJCNN 2024 | 2024-06 | None | None |
